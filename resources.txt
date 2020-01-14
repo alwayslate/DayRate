@@ -1,0 +1,7 @@
+Resource links for reference
+
+Building Java Projects with Gradle:
+https://spring.io/guides/gs/gradle/
+
+Android Guide:
+https://github.com/codepath/android_guides
